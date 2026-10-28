@@ -1,0 +1,5 @@
+Model,MAE,MSE,R²
+Baseline (previous season 1:1),0.263,0.123,0.388
+"OLS, previous season only",0.256,0.112,0.442
+"OLS, + transfers",0.253,0.113,0.437
+"Random Forest, + transfers",0.251,0.113,0.440

@@ -2,4 +2,5 @@ pandas
 numpy
 matplotlib
 networkx
-jupyterlab
+scipy
+scikit-learn
